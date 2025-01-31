@@ -19,3 +19,10 @@
     background-color: #FFDC26;
     border-radius: 8px;
   }
+
+  .btn-secondary{
+    padding: 10px 30px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+  
+  }
