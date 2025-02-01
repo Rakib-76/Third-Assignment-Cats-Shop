@@ -27,4 +27,14 @@
   
   }
 
- 
+ /* animation related style */
+ @keyframes bounce {
+  0%, 100% {transform:
+   translate y(0); }
+   50% {transform:
+  translateY(-10px);}
+  
+ }
+ .anim{
+  animation: bounce 5s infinite;
+ }
